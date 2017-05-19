@@ -1,0 +1,16 @@
+[
+	{
+	 "modid": "dnicraft",
+	 "name": "D'ni Craft",
+	 "description": "This mod does stuff.",
+	 "version": "0.1.0",
+	 "mcversion": "1.10.2",
+	 "url": "N/A",
+	 "updateUrl": "",
+	 "authorList": ["Iriohm"],
+	 "credits": "Credits go here",
+	 "logoFile": "logo.png",
+	 "screenshots": [],
+	 "dependencies": [mod_minecraftForge]
+	}
+]
