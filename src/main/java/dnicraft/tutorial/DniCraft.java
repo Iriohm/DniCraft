@@ -25,6 +25,7 @@ public class DniCraft {
 	public void preInit(FMLPreInitializationEvent event) {
 		System.out.println(name + " is loading!");
 		ModItems.init();
+		ModBlocks.init();
 	}
 	
 	@Mod.EventHandler
